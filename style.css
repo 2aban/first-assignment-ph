@@ -130,3 +130,33 @@ margin: 21px;
 .title-111{
     padding: 25px;
 }
+.support-submit-section{
+    background-image: url(./assets/handshake.jpg);
+    margin: 44px 114px;
+    width: 1250px;
+    height: 490px;
+}
+.title-suppourt h3{
+        padding: 21px 347px;
+    font-size: 61px;
+    color: white;
+}
+.title-suppourt p{
+    padding: 0px 239px;
+    font-size: 22px;
+    color: white;
+}
+.support-btn{
+    padding: 35px 376px;
+}
+.form-control{
+    padding: 13px 86px;
+    border: none;
+    border-radius: 5px;
+}
+.support-btn button{
+    padding: 12px 33px;
+    border: none;
+    border-radius: 6px;
+    background: white;
+}
