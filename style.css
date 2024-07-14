@@ -93,3 +93,40 @@ margin: 21px;
 .video-section iframe{
     padding: 12px 305px;
 }
+.terget-title{
+    text-align: center;
+    padding: 20px 314px;
+
+}
+.terget-title h3{
+    font-size: 32px;
+}
+.html-card{
+    box-shadow: 1px 2px 3px gray ;
+    padding: 40px;
+    border-radius: 12px;
+    background: #ff181824;
+}
+
+.three-card{
+    display: flex;
+    padding: 2px 240px;
+    gap: 20px;
+}
+.next-target-title{
+    text-align: center;
+    padding: 20px 314px;
+}
+.node-js-card{
+    display: flex;
+    box-shadow: 9px 0px 5px #eaeaea;
+    margin: 21px 280px;
+    align-items: center;
+    border-radius: 12px;
+}
+.img-11{
+    padding: 25px;
+}
+.title-111{
+    padding: 25px;
+}
