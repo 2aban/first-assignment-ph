@@ -135,9 +135,10 @@ margin: 21px;
     margin: 44px 114px;
     width: 1250px;
     height: 490px;
+    border-radius: 12px;
 }
 .title-suppourt h3{
-        padding: 21px 347px;
+        padding: 62px 347px;
     font-size: 61px;
     color: white;
 }
@@ -159,4 +160,10 @@ margin: 21px;
     border: none;
     border-radius: 6px;
     background: white;
+}
+.footer-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: #f6f6f6;
 }
